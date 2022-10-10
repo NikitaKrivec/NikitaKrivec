@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Nikita Krivecs!
 Knowledge of C# .Net, SQL, Unit Testing, Web APIs, Git and GitHub.
 ## 🧰 My tool box:
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,ts,html,css,sqlite)]()
