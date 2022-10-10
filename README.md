@@ -1,5 +1,7 @@
 ### Hi there 👋
+Knowledge of C# .Net, SQL, Unit Testing, Web APIs, Git and GitHub.
 
+I am passionate about improving technical skills, IT is a field where you always need to improve your skills
 <!--
 **NikitaKrivec/NikitaKrivec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
