@@ -5,6 +5,7 @@ I am passionate about improving technical skills, IT is a field where you always
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nikita-krivecs/)
 ## 🧰 My tool box:
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,ts,html,css,sqlite)]()
+
 📫 How to reach me: krivecs.nikita@gmail.com
 🌱 I’m currently learning C#
 <!--
